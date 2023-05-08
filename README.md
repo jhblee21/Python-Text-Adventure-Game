@@ -36,7 +36,6 @@
       <a href="#getting-started">Getting Started</a>
     </li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -45,16 +44,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/weatherwidgetapp.png">
+<img src="images/pythontextadventuregame.png">
 
-This is a A simple weather widget app utilizing the OpenWeatherMap Weather API. This app displays the current weather (clear, clouds, rain, snow, or haze), temperature (in Fahrenheit), humidity (%), and wind speed (mph) for a city.
+This is my take on the classic choose-your-own-adventure text game written in Python. You must explore the kingdom's castle in order to solve the puzzle before facing the giant evil python! 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- BUILT WITH -->
 ## Built with
  
-* <img src="images/logo-python.jpg" alt="Logo" width="80" height="80">
+<img src="images/logo-python.jpg" alt="Logo" width="80" height="80">
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
   
