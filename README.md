@@ -48,6 +48,10 @@
 
 This is my take on the classic choose-your-own-adventure text game written in Python. You must explore the kingdom's castle in order to solve the puzzle before facing the giant evil python! 
 
+The Design Document includes the following: 
+* Storyboard (Description and Map)
+* Pseudocode
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- BUILT WITH -->
